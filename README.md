@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23DD6387&center=true&vCenter=true&lines=Ol%C3%A1!+Eu+sou+Isadora!;Bem+vinde+ao+meu+perfil!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23DD6387&center=true&vCenter=true&lines=Hello!+I+am+Isadora!;Welcome+to+my+profile!" alt="Typing SVG">
 <br>
   Front End & Mobile Developer
 </div>
