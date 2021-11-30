@@ -12,7 +12,7 @@
   <li> 🌱 I am learning JavaScript, React e React Native;</li> <br>
   <li> 📍 I am from Juiz de Fora, Minas Gerais, Brazil;</li> <br>
   <li> 📫 Contact me at <a href="mailto:isadorafer56@gmail.com" target="_blank">isadorafer56@gmail.com</a>;</li> <br>
-  <li> ⚡ Fun Fact: I'm learning Japanese! (slowsly...)</li>  <br>
+  <li> ⚡ Fun Fact: I'm learning Japanese! (slowly...)</li>  <br>
 </ul>
 
 ## My GitHub Stats:
