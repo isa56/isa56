@@ -8,7 +8,7 @@
 <p align="center">Brazilian developer</p>
 <ul>
   <li> 🔭 I am working at <a href="https://codejr.com.br/" target="_blank">Code Empresa Júnior</a>;</li> <br>
-  <li> 🌱 I am learning JavaScript, React e React Native;</li> <br>
+  <li> 🌱 I am learning JavaScript, React Native e Vue;</li> <br>
   <li> 📍 I am from Juiz de Fora, Minas Gerais, Brazil;</li> <br>
   <li> 📫 Contact me at <a href="mailto:isadorafer56@gmail.com" target="_blank">isadorafer56@gmail.com</a>;</li> <br>
   <li> ⚡ Fun Fact: I'm learning Japanese! (slowly...)</li>  <br>
@@ -24,11 +24,16 @@
   <a href="https://github.com/isa56">
     <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isa56&layout=compact&theme=dracula&hide_border=true" />
   </a>
+
 <br><br>
-  <a alt="trophy" href="https://github.com/isa56">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=isa56&theme=dracula"/>
-  </a>
-<br><br>
+  
+  <p align="center">
+    <a alt="trophy" href="https://github.com/isa56">
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=isa56&theme=dracula"/>
+    </a>
+  <br><br>  
+  </p>
+  
   <a href="https://github.com/isa56" alt="Git Graph">
     <img height="250em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=isa56&theme=dracula" />
   </a>
