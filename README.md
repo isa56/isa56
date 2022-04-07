@@ -27,12 +27,11 @@
 
 <br><br>
   
-  <p align="center">
-    <a alt="trophy" href="https://github.com/isa56">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=isa56&theme=dracula"/>
-    </a>
+  <a alt="trophy" href="https://github.com/isa56">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=isa56&theme=dracula"/>
+  </a>
+  
   <br><br>  
-  </p>
   
   <a href="https://github.com/isa56" alt="Git Graph">
     <img height="250em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=isa56&theme=dracula" />
