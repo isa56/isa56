@@ -24,23 +24,39 @@
   <a href="https://github.com/isa56">
     <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isa56&layout=compact&theme=dracula&hide_border=true" />
   </a>
-
-<br><br>
   
+</p>  
+
+<br/><br/>
+
+<p align="center">
+
   <a alt="trophy" href="https://github.com/isa56">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=isa56&theme=dracula"/>
   </a>
   
-  <br><br>  
+</p>
+
+<br/><br/>
+
+<p align="center">
   
   <a href="https://github.com/isa56" alt="Git Graph">
     <img height="250em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=isa56&theme=dracula" />
   </a>
-  <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isa56&theme=dracula" alt="isa56" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=isa56&label=Profile%20views&color=dd6387&style=flat" alt="isa56" />
 
+</p>
+  
+<br/><br/>
+
+<p align="center">
+      
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isa56&theme=dracula" alt="isa56" />
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=isa56&label=Profile%20views&color=dd6387&style=flat" alt="isa56" />
+  
 </p>
   
 ## Contact Me:
