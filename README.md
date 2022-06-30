@@ -118,10 +118,9 @@
 
 <br><br>
 
-<a href="https://app.daily.dev/isa56"><img src="https://api.daily.dev/devcards/9ff36201742b4c97837fd5bab022476f.png?r=1ni" width="400" alt="Isadora's Dev Card"/></a>
-
-<br><br>
-
-<div align="center">
+<div display="flex" style="justify-content: space-around" align="center">
+  <a href="https://app.daily.dev/isa56"><img src="https://api.daily.dev/devcards/9ff36201742b4c97837fd5bab022476f.png?r=1ni" width="300" alt="Isadora's Dev Card"/></a>
   <img height="50%" src="https://i.imgur.com/zO1w9BF.gif" alt="Gatinho sofrendo com redes sociais" />
 </div>
+  
+
