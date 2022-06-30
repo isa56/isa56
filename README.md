@@ -8,7 +8,7 @@
 <p align="center">Brazilian developer</p>
 <ul>
   <li> 🔭 I am working at <a href="https://codejr.com.br/" target="_blank">Code Empresa Júnior</a> and <a href="https://pontue.com.br/" target="_blank">Pontue</a>;</li> <br>
-  <li> 🌱 I am learning JavaScript, Vue and Laravel;</li> <br>
+  <li> 🌱 I am learning JavaScript and Vue;</li> <br>
   <li> 📍 I am from Juiz de Fora, Minas Gerais, Brazil;</li> <br>
   <li> 📫 Contact me at <a href="mailto:isadorafer56@gmail.com" target="_blank">isadorafer56@gmail.com</a>;</li> <br>
   <li> ⚡ Fun Fact: I'm learning Japanese! (slowly...)</li>  <br>
@@ -115,6 +115,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
+
+<br><br>
+
+<a href="https://app.daily.dev/isa56"><img src="https://api.daily.dev/devcards/9ff36201742b4c97837fd5bab022476f.png?r=1ni" width="400" alt="Isadora's Dev Card"/></a>
 
 <br><br>
 
