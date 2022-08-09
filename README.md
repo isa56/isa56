@@ -7,7 +7,7 @@
 <p align="center">Front End & Mobile Developer</p>
 <p align="center">Brazilian developer</p>
 <ul>
-  <li> 🔭 I am working at <a href="https://codejr.com.br/" target="_blank">Code Empresa Júnior</a> and <a href="https://pontue.com.br/" target="_blank">Pontue</a>;</li> <br>
+  <li> 🔭 I am working at <a href="https://pontue.com.br/" target="_blank">Pontue Redação Inteligente</a>;</li> <br>
   <li> 🌱 I am learning JavaScript and Vue;</li> <br>
   <li> 📍 I am from Juiz de Fora, Minas Gerais, Brazil;</li> <br>
   <li> 📫 Contact me at <a href="mailto:isadorafer56@gmail.com" target="_blank">isadorafer56@gmail.com</a>;</li> <br>
