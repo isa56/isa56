@@ -7,8 +7,8 @@
 <p align="center">Front End & Mobile Developer</p>
 <p align="center">Brazilian developer</p>
 <ul>
-  <li> 🔭 I am working at <a href="https://pontue.com.br/" target="_blank">Pontue Redação Inteligente</a>;</li> <br>
-  <li> 🌱 I am learning JavaScript and Vue;</li> <br>
+  <li> 🔭 I am working at <a href="marlin.com.br" target="_blank">Marlin</a>;</li> <br>
+  <li> 🌱 I am learning Angular and Node;</li> <br>
   <li> 📍 I am from Juiz de Fora, Minas Gerais, Brazil;</li> <br>
   <li> 📫 Contact me at <a href="mailto:isadorafer56@gmail.com" target="_blank">isadorafer56@gmail.com</a>;</li> <br>
   <li> ⚡ Fun Fact: I'm learning Japanese! (slowly...)</li>  <br>
@@ -90,6 +90,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+    <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://material.angularjs.org/1.1.0/img/icons/angular-logo.svg" alt="angular" width="40" height="40"/> </a>
 </p>
 
 #### Mobile App Development:
