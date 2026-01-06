@@ -8,57 +8,12 @@
 <p align="center">Brazilian developer</p>
 <ul>
   <li> 🔭 I am working at <a href="marlin.com.br" target="_blank">Marlin</a>;</li> <br>
-  <li> 🌱 I am learning Angular and Node;</li> <br>
+  <li> 🌱 I am learning Node and Django;</li> <br>
   <li> 📍 I am from Juiz de Fora, Minas Gerais, Brazil;</li> <br>
   <li> 📫 Contact me at <a href="mailto:isadorafer56@gmail.com" target="_blank">isadorafer56@gmail.com</a>;</li> <br>
   <li> ⚡ Fun Fact: I'm learning Japanese! (slowly...)</li>  <br>
 </ul>
 
-## My GitHub Stats:
-
-<p align="center">
-  
-  <a href="https://github.com/isa56">
-    <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=isa56&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/isa56">
-    <img height="155em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isa56&layout=compact&theme=dracula&hide_border=true" />
-  </a>
-  
-</p>  
-
-<br/><br/>
-
-<p align="center">
-
-  <a alt="trophy" href="https://github.com/isa56">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=isa56&theme=dracula"/>
-  </a>
-  
-</p>
-
-<br/><br/>
-
-<p align="center">
-  
-  <a href="https://github.com/isa56" alt="Git Graph">
-    <img height="250em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=isa56&theme=dracula" />
-  </a>
-
-</p>
-  
-<br/><br/>
-
-<p align="center">
-      
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isa56&theme=dracula" alt="isa56" />
-  
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=isa56&label=Profile%20views&color=dd6387&style=flat" alt="isa56" />
-  
-</p>
-  
 ## Contact Me:
 
 <div align="center">
@@ -93,6 +48,16 @@
     <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://material.angularjs.org/1.1.0/img/icons/angular-logo.svg" alt="angular" width="40" height="40"/> </a>
 </p>
 
+#### Back End Development:
+<p align="center">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+  </a>
+</p>
+
 #### Mobile App Development:
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -119,8 +84,11 @@
 
 <br><br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isa56&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
 <div display="flex" style="justify-content: space-around" align="center">
-  <a href="https://app.daily.dev/isa56"><img src="https://api.daily.dev/devcards/9ff36201742b4c97837fd5bab022476f.png?r=1ni" width="300" alt="Isadora's Dev Card"/></a>
   <img height="50%" src="https://i.imgur.com/zO1w9BF.gif" alt="Gatinho sofrendo com redes sociais" />
 </div>
   
