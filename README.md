@@ -11,7 +11,7 @@
   <li> 🌱 I am learning Node and Django;</li> <br>
   <li> 📍 I am from Juiz de Fora, Minas Gerais, Brazil;</li> <br>
   <li> 📫 Contact me at <a href="mailto:isadorafer56@gmail.com" target="_blank">isadorafer56@gmail.com</a>;</li> <br>
-  <li> Check out <a href="https://www.isadoraferreira.tech/" target="_blank">my website</a>!</li>
+  <li> 🌐 Check out <a href="https://www.isadoraferreira.tech/" target="_blank">my website</a>!</li>
   <li> ⚡ Fun Fact: I'm learning Japanese! (slowly...)</li>  <br>
 </ul>
 
