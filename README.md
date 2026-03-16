@@ -7,7 +7,7 @@
 <p align="center">Front End & Mobile Developer</p>
 <p align="center">Brazilian developer</p>
 <ul>
-  <li> 🔭 I am working at <a href="marlin.com.br" target="_blank">Marlin</a>;</li> <br>
+  <li> 🔭 I am working at <a href="https://www.joinmoxie.com/" target="_blank">Moxie</a>;</li> <br>
   <li> 🌱 I am learning Node and Django;</li> <br>
   <li> 📍 I am from Juiz de Fora, Minas Gerais, Brazil;</li> <br>
   <li> 📫 Contact me at <a href="mailto:isadorafer56@gmail.com" target="_blank">isadorafer56@gmail.com</a>;</li> <br>
